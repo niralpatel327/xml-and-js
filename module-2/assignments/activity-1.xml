@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<?xml-styleshet tye="text/css" href="activity-1.css" ?>
+<Businesscards>
+<Businesscard>
+<Name>
+<Firstname> Rorie  </Firstname>
+<Lastname>  Demanche  </Lastname>
+</Name>
+<Contact>
+<phone type="home"> +1 (710) 153-4949 (home) </phone>
+<phone type="work"> +1 (503) 319-3558 (work) </phone>
+<phone type="mobile"> +1 (182) 748-1667 (mobile) </phone>
+<email>rdemanche0@foxnews.com</email>
+</Contact>
+</Businesscard>
+<Businesscard>
+<Name>
+<Firstname> Kelcey Surman </Firstname>
+<Lastname> Surman </Lastname>
+</Name>
+<Contact>
+<phone type="home">+1 (249) 926-7376 (home) </phone>
+<phone type="work"> +1 (208) 363-6588 (work) </phone>
+<phone type="mobile"> +1 (982) 536-6860 (mobile) </phone>
+<email>ksurman1@usnews.com</email>
+</Contact>
+</Businesscard>
+<Businesscard>
+<Name>
+<Firstname> Simon </Firstname>
+<Lastname> Heddan </Lastname>
+</Name>
+<Contact>
+<phone type="home"> +1 (687) 808-4290 (home) </phone>
+<phone type="work"> +1 (604) 815-7810 (work) </phone>
+<phone type="mobile"> +1 (924) 174-3271 (mobile) </phone>
+<email>sheddan2@alexa.com</email>
+</Contact>
+</Businesscard>
+<Businesscard>
+<Name>
+<Firstname> Chan </Firstname>
+<Lastname> Supple </Lastname>
+</Name>
+<Contact>
+<phone type="home">+1 (577) 165-2495 (home)</phone>
+<phone type="work"> +1 (547) 934-7337 (work) </phone>
+<phone type="mobile"> +1 (367) 667-0747 (mobile) </phone>
+<email>csupple3@123-reg.co.uk</email>
+</Contact>
+</Businesscard>
+</Businesscards>

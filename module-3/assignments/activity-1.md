@@ -1,28 +1,29 @@
 # Activity 1
 
 ```xml
-<employeeList>
-  <personList>
-    <empID>E0000001</empID>
-    <name>Sales</name>
+
+<employeeList xlmns="urn:corp:list" >
+   <personList xlmns:emp="urn:corp:emp" xlmns:dep="urn:corp:dep">
+    <emp:empID>E0000001</emp:empID>
+    <dep:name>Sales</dep:name>
     <name>John Smith</name>
-  </personList>
-  <personList>
-    <empID>E0000002</empID>
-    <name>Development</name>
+  </list:personList>
+ <list:personList>
+    <emp:empID>E0000002</emp:empID>
+    <dep:name>Development</dep:name>
     <name>Ichiro Tanaka</name>
-  </personList>
-  <personList>
-    <empID>E0000003</empID>
-    <name>Development</name>
+  </list:personList>
+<personList>
+    <emp:empID>E0000003</emp:empID>
+    <dep:name>Development</dep:name>
     <name>Jiro Suzuki</name>
-  </personList>
-  <personList>
-    <empID>E0000004</empID>
-    <name>Administrative</name>
+  </list:personList>
+ <personList>
+    <emp:empID>E0000004</emp:empID>
+    <dep:name>Administrative</dep:name>
     <name>Saburo Takahashi</name>
-  </personList>
-</employeeList>
+  </list:personList>
+  </list:employeeList>
 ```
 
 Resolve naming collision by adding namepsaces
